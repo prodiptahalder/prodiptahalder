@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prodiptahalder
-- 👀 I’m interested in Software Development and how it is maintained by DevOps.
-- 🌱 I’m currently pursuing MCA
-- 💞️ I’m looking to become an SDE or SRE.
+- 👀 I'm a Software Engineer with a passion for innovation and problem-solving.
+- 🌱 I'm currently a proud member of the prestigious JP Morgan and Chase, the world's number one Investment Bank.
+- 💞️ I hold a Master's in Computer Applications (MCA) from Chandigarh University and a B.Sc. in Computer Science Honors from Calcutta University.
 - 📫 How to reach me : halder.prodipta9500@gmail.com
 
 <!---
